@@ -1,7 +1,7 @@
 # Django Sticky Notes Application Part 2
 
 ## Project overview
-This submission contains a Django-based sticky notes application that allows users to create, view, update, and delete notes.
+This submission contains a Django based sticky notes application that allows users to create, view, update and delete notes.
 
 ## What is included
 - The Django project in the bulletin_board folder
