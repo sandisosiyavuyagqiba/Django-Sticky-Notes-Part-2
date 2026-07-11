@@ -1,7 +1,5 @@
 # Django Sticky Notes Application Part 2
 
-This folder contains the completed sticky notes application for the practical task.
-
 ## What is included
 - The Django project in the Example files/bulletin_board folder
 - Unit tests in the posts app covering model, list, detail, create, update, and delete behaviour
