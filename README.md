@@ -1,4 +1,4 @@
-# Sticky Notes Django Application
+# Sticky Notes Django Application Part 2
 
 Sticky Notes is a simple Django web application that allows users to manage
 short notes through a browser. The application demonstrates the basic Django
